@@ -1,4 +1,3 @@
-# Music_Composition_YVIP_Hackathon
 
 ## Overview
 This was my winning submission for the Your Voice is Power National Hacakthon. Through this project I was able to use my Phython coding skills to compose music representing Indigienous voices. To listen to the song you can click [here](https://earsketch.gatech.edu/earsketch2/?sharing=7k3TekUBjC9SeGF3rjdgZg).
