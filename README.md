@@ -5,5 +5,6 @@ This was my winning submission for the Your Voice is Power National Hacakthon. T
 ## What I used:
 To compose the music I used Earsketch, where all the sounds were preuploaded, and I used Python to peice sound togther, and construct a complete song, that showed a clear message about social inclusion, amplifying the voices of Indigenous and Black communities in Canada. 
 
-#Hackathon Winning Submission: 
+## Hackathon Winning Submission: 
+Participated in a National Hackathon powered by TakingItGlobal & Amazon Future Engineer. 
 You can view the [Hackathon](https://www.yourvoiceispower.ca/winner-and-judges/2024-winners/) here. 
